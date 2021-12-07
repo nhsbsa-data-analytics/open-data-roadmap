@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: NHSBSA Open Data feedback
+    url: https://github.com/nhsbsa-data-analytics/open-data-roadmap/discussions
+    about: Share your feedback with the NHSBSA.
