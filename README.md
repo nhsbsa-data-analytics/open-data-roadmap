@@ -4,7 +4,7 @@
 
 Our roadmap  is where users of our Open Data products such as the [NHSBSA Open Data Portal (ODP)](https://opendata.nhsbsa.net/) can learn about what we're working on and when we expect to deliver them.
 
-Questions, comments, and suggestions for the roadmap can be left on the [NHSBSA Open Data roadmap feedback discussions](https://github.com/nhsbsa-data-analytics/open-data-roadmap/discussions). This roadmap repository is primarily for us to communicate what we're working on to our users and open data community, therefore issues are read only, and conversations are locked.
+Questions, comments, and suggestions for the roadmap can be left on the [NHSBSA Open Data roadmap feedback discussions](https://github.com/nhsbsa-data-analytics/open-data-roadmap/discussions) 🗨️. This roadmap repository is primarily for us to communicate what we're working on to our users and open data community, therefore issues are read only, and conversations are locked.
 
 ## Guide to the roadmap
 
@@ -61,4 +61,3 @@ The following are our current list of themes that our open data products can rel
 * **hospital:** Products relating to hospital & provider medicines.
 * **dental:** Products relating to dental providers.
 * **ophthalmic:** Products relating to Ophthalmic services. 
-* 
