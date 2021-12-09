@@ -1,6 +1,6 @@
 # NHSBSA Open Data roadmap
 
-View the [NHSBSA public Open Data roadmap](https://github.com/orgs/nhsbsa-data-analytics/projects/2/views/1)
+👉 View the [NHSBSA public Open Data roadmap](https://github.com/orgs/nhsbsa-data-analytics/projects/2/views/1)
 
 Our roadmap  is where users of our Open Data products such as the [NHSBSA Open Data Portal (ODP)](https://opendata.nhsbsa.net/) can learn about what we're working on and when we expect to deliver them.
 
@@ -26,9 +26,39 @@ You'll also find an **Exploratory** column, which is used in conjuction with oth
 
 Release phases indicate the stages that a roadmap item goes through, from experimental design to general availability.
 
-* **experimental**: *Primarily for testing and feedback*\
+* **beta**: *Primarily for testing and feedback*\
 New and innovative products that are still under development and subject to change. Not for production use, but released to allow users to give us their thoughts and help shape the future of the product.
 
 * **production**: *Available in a stable state*\
 Ready for production use. Data sets in a production phase will only have changes implemeted to revise and correct previously released figures. Large scale changes will only be implemented to production data sets following overwhelming user feedback.
 
+* **improvement**: *For communitcating changes*\
+This label is used for products that were previously in a production state but following user feedback is under development and subject to change. Caution should be used if building production workflows using these products.
+
+Some Open Data products may still be in the exploratory stages and have no timeframe available. These are included in the raodmap for early feedback and communicate what we're working on and our priorities. These are marked as:
+
+* **exploring**:\
+We are are considering building this product and are gathering feedback on it.
+
+* **in design**:\
+In discovery phase. We have decided to build this product, but are still figuring out *how*.
+
+## Product area
+
+A **product area** shows the general type of work the issue relates to. These are:
+
+* **dataset:** Issue relates to the creation or maintainence of an open data set.
+* **platform:** Issue relates to improvements and new developments in our Open Data Portal or other data platforms.
+* **code:** Releasing code repositories for pieces of analysis that our teams are working on.
+* **analysis:** Publishing analysis for public consumption.
+
+## Theme
+
+The following are our current list of themes that our open data products can relate to. These broadly correspond to the themes held in the ODP:
+
+* **experimental:** For new and innovative products.
+* **prescribing:** Products relating to prescribing, community dispensing, and medicines data.
+* **hospital:** Products relating to hospital & provider medicines.
+* **dental:** Products relating to dental providers.
+* **ophthalmic:** Products relating to Ophthalmic services. 
+* 
