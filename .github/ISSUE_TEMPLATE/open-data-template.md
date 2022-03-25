@@ -3,7 +3,7 @@ name: Open Data template
 about: This template should be used with the Open Data Roadmap to describe an upcoming
   data set
 title: "[Data set name] Open Data release"
-labels: ''
+labels: dataset
 assignees: ''
 
 ---
