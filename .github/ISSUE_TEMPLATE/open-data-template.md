@@ -1,20 +1,13 @@
----
-name: Open Data template
-about: This template should be used by NHSBSA employees only with the Open Data Roadmap to describe an upcoming
-  data set
-title: "[Data set name] Open Data release"
-labels: dataset
-assignees: ''
+## Overview
 
----
 
-# Summary
-This is a quick summary of what the upcoming data set is
+## Lead Contact
 
-# Intended outcome
-This is what we are looking to achieve by publishing this data. Greater transparency? Reduce FOIs?
 
-# How will it work?
-what is the overview of how we will deliver this data set?
+## Planned Release Date
 
-Don't forget to add the appropriate labels for this issue!
+
+## Details
+
+- 
+-  
