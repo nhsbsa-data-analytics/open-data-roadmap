@@ -1,4 +1,4 @@
-# NHSBSA Open Data roadmap
+# NHSBSA Open Portal
 
 👉 View the [NHSBSA public Open Data roadmap](https://github.com/orgs/nhsbsa-data-analytics/projects/2/views/1)
 
